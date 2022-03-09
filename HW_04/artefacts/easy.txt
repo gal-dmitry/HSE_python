@@ -1,0 +1,5 @@
+Args: n=35, times=10
+
+Base run: 49.78 sec
+Threading run: 41.21 sec
+Multiprocessing run: 25.65 sec
